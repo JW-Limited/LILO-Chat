@@ -1,5 +1,5 @@
 # LILO-Chat
-A Discord like Chatclient to communicate in youre Team
+A Discord like Chatclient to communicate in youre Team. Please be Patient its only a Demo and a very first preview what is possible.
 
 ### Design
 > Dark
